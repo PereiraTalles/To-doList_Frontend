@@ -1,5 +1,4 @@
 # To-doList_Frontend
-# To-Do List
 
 Uma aplicação simples de **Lista de Tarefas** que permite adicionar, editar, remover e marcar tarefas como concluídas. O projeto armazena as tarefas localmente no navegador usando o **LocalStorage**.
 
