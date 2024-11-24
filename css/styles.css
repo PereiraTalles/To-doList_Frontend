@@ -164,11 +164,10 @@
     margin: 20px auto;
     background-color: #fff;
     color: #102f5e;
-    transition: all 0.3s ease; /* Transição suave para mudanças de estilo */
   }
   
   #clear-storage-btn:hover {
-    background-color: #102f5e; /* Cor do fundo ao passar o mouse */
-    color: #fff; /* Cor do texto ao passar o mouse */
+    background-color: #102f5e;
+    color: #fff;
   }
   
