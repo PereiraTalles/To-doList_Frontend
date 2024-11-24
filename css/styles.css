@@ -9,7 +9,9 @@
   body {
     background-image: url("../img/planilha.jpeg");
     background-position: center;
-    background-size: cover;
+    background-size: cover; /* Garante que a imagem ocupe toda a tela */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    background-attachment: fixed; /* Garante que a imagem fique fixa ao rolar */
   }
   
   button {
