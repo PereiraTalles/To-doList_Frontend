@@ -7,11 +7,13 @@
   }
   
   body {
-    background-image: url("../img/nova.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)), 
+                url("../img/nova.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
   }
   
   button {
