@@ -244,7 +244,7 @@ const updateTodoLocalStorage = (todoOldText, todoNewText) => {
 clearStorageBtn.addEventListener("click", () => {
   localStorage.clear()
   todoList.innerHTML = "" 
-  alert("Local Storage limpo e lista resetada!")
+  alert("Lista de tarefas foi limpa!")
 })
 
 loadTodos()
